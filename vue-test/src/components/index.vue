@@ -12,6 +12,11 @@
                 msg:'参数信息'
             }
         },
+        created: {
+            change(){
+                console.log(1)
+            }
+        },
     }
 </script>
 
